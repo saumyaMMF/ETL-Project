@@ -19,6 +19,8 @@ class AppConfig:
     basic_supplier_code: str = "1-2273"
     pricelist_season: str = "261"
     collection_code: str = "BSC"
+    code_category: str = "AP"
+    color_prefix: str = "GUO"
     date_1: str = "1/12"
     date_2: str = "3/1"
     date_3: str = "27/4"
